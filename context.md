@@ -4,8 +4,8 @@ _Atualizado: 2026-04-28_
 ## Perfil
 - **Nome:** Edney
 - **Idioma preferido:** Português (BR)
-- **Localização:** Morro da Fumaça, SC
-- **Área principal:** [preencha — ex: desenvolvimento web]
+- **Localização:** Lauro de Feitas, Ba
+- **Área principal:** marketing, desenvolvimento de IA , desenvolvimento de solucoes usando IA.
 
 ## Stack e ferramentas
 - [sua linguagem principal]
