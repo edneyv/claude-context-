@@ -8,8 +8,8 @@ _Atualizado: 2026-04-28_
 - **Área principal:** marketing, desenvolvimento de IA , desenvolvimento de solucoes usando IA.
 
 ## Stack e ferramentas
-- [sua linguagem principal]
-- [frameworks que usa]
+- Python
+- n8n
 - [editor / OS]
 
 ## Projetos ativos
